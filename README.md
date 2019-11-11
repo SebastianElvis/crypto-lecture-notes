@@ -5,7 +5,7 @@ This repository collects lecture notes on Cryptography that are publicly accessi
 ## Books
 
 - [Introduction to Modern Cryptography (2nd edition)](http://www.cs.umd.edu/~jkatz/imc.html) by Jonathan Katz and Yehuda Lindell
-- [A Course in Cryptography](http://www.cs.cornell.edu/courses/cs4830/2010fa/lecnotes.pdf) by Rafael Pass
+- [A Course in Cryptography](http://www.cs.cornell.edu/courses/cs4830/2010fa/lecnotes.pdf) by Rafael Pass and Abhi Shelat
 - [A Graduate Course in Applied Cryptography](http://crypto.stanford.edu/~dabo/cryptobook/) by Dan Boneh and Victor Shoup
 - [Lecture Notes on Cryptography](https://cseweb.ucsd.edu/~mihir/papers/gb.pdf) by Shafi Goldwasser and Mihir Bellare
 - [Serious Cryptography: A Practical Introduction to Modern Encryption](http://index-of.es/Varios-2/Serious%20Cryptography%20A%20Practical%20Introduction%20to%20Modern%20Encryption%20(2).pdf) by JP Aumasson
