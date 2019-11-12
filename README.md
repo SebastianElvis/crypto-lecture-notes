@@ -13,7 +13,7 @@ This repository collects lecture notes on Cryptography that are publicly accessi
 - [The Foundations of Cryptography](http://www.wisdom.weizmann.ac.il/~oded/foc-book.html) by Oded Goldreich
 - [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/) from Alfred J. Menezes, Paul C. van Oorschot and Scott A. Vanstone
 - [Foundations of Cryptography 89-856](http://u.cs.biu.ac.il/~lindell/89-856/complete-89-856.pdf) by Lindell
-+ [Introduction to Reliable and Secure Distributed Programming]https://github.com/ChrisLinn/chrislinn.ink/tree/master/res/IntroductionToReliableAndSecur_Book_2011.pdf
++ [Introduction to Reliable and Secure Distributed Programming](https://github.com/ChrisLinn/chrislinn.ink/tree/master/res/IntroductionToReliableAndSecur_Book_2011.pdf)
 + [Crypto 101](https://github.com/crypto101/book)
 * [intuitive-advanced-cryptography](https://github.com/cryptosubtlety/intuitive-advanced-cryptography)
 * [privacy-for-identities](https://github.com/crypto-cypher/privacy-for-identities/)
