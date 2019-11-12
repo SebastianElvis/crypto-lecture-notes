@@ -12,6 +12,12 @@ This repository collects lecture notes on Cryptography that are publicly accessi
 - [Handbook of Applied Cryptography](https://notendur.hi.is/pgg/Handbook%20of%20Applied%20Cryptography.pdf)
 - [The Foundations of Cryptography](http://www.wisdom.weizmann.ac.il/~oded/foc-book.html) by Oded Goldreich
 - [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/) from Alfred J. Menezes, Paul C. van Oorschot and Scott A. Vanstone
+- [Foundations of Cryptography 89-856](http://u.cs.biu.ac.il/~lindell/89-856/complete-89-856.pdf) by Lindell
++ [Introduction to Reliable and Secure Distributed Programming]https://github.com/ChrisLinn/chrislinn.ink/tree/master/res/IntroductionToReliableAndSecur_Book_2011.pdf
++ [Crypto 101](https://github.com/crypto101/book)
+* [intuitive-advanced-cryptography](https://github.com/cryptosubtlety/intuitive-advanced-cryptography)
+* [privacy-for-identities](https://github.com/crypto-cypher/privacy-for-identities/)
++ [Practical-Cryptography-for-Developers-Book](https://github.com/nakov/Practical-Cryptography-for-Developers-Book)
 
 ## Courses
 
@@ -26,7 +32,20 @@ This repository collects lecture notes on Cryptography that are publicly accessi
 - [Cryptography](https://moodle.cs.huji.ac.il/cs14/course/view.php?id=67531) from Hebrew University
 - [Special Topic in Cryptography: Secure Computation](https://people.eecs.berkeley.edu/~sanjamg/classes/cs294-spring16/) from UC Berkeley
 - [Advanced Topics in Cryptography](https://www.cs.umd.edu/~jkatz/gradcrypto2/) from University of Maryland
+- [Cryptography](https://www.boazbarak.org/cs127spring16/) from Harvard
+- [Secure Computation](http://www.cs.umd.edu/~jkatz/gradcrypto2/f13/scribes.html) from UMD
+
+## For coding
++ [CryptoGotchas](https://github.com/SalusaSecondus/CryptoGotchas)
++ [cryptocoding](https://github.com/veorq/cryptocoding)
++ [go-scp](https://checkmarx.gitbooks.io/go-scp/content/)
++ [Security with Go](https://www.packtpub.com/networking-and-servers/security-go)'s [Chp06: Cryptography](https://github.com/PacktPublishing/Security-with-Go/tree/master/Chapter06)
 
 ## Misc
 
 - [Quadralay's Cryptography Archive](https://www.austinlinks.com/Crypto/)
+- https://intensecrypto.org/public/index.html
+- http://safecurves.cr.yp.to/
+- [From Zero (Knowledge) to Bulletproofs](https://github.com/AdamISZ/from0k2bp)
+- [Resources for Getting Started with MPC](http://u.cs.biu.ac.il/~lindell/MPC-resources.html)
+- [awesome-mpc](https://github.com/rdragos/awesome-mpc)
