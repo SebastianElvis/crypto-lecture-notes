@@ -47,5 +47,5 @@ This repository collects lecture notes on Cryptography that are publicly accessi
 - https://intensecrypto.org/public/index.html
 - http://safecurves.cr.yp.to/
 - [From Zero (Knowledge) to Bulletproofs](https://github.com/AdamISZ/from0k2bp)
-- [Resources for Getting Started with MPC](http://u.cs.biu.ac.il/~lindell/MPC-resources.html)
+- Lindell's [Resources for Getting Started with MPC](http://u.cs.biu.ac.il/~lindell/MPC-resources.html)
 - [awesome-mpc](https://github.com/rdragos/awesome-mpc)
