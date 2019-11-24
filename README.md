@@ -44,7 +44,7 @@ This repository collects lecture notes on Cryptography that are publicly accessi
 
 ## Misc
 
-- [awesome-cryptography](https://github.com/sobolevn/awesome-cryptography)(books, courses, blogs...included)
+- [awesome-cryptography](https://github.com/sobolevn/awesome-cryptography), with books, courses, blogs...included
 - [awesome-crypto-papers](https://github.com/pFarb/awesome-crypto-papers)
 - [Quadralay's Cryptography Archive](https://www.austinlinks.com/Crypto/)
 - https://intensecrypto.org/public/index.html
