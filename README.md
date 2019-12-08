@@ -13,6 +13,7 @@ This repository collects lecture notes on Cryptography that are publicly accessi
 - [The Foundations of Cryptography](http://www.wisdom.weizmann.ac.il/~oded/foc-book.html) by Oded Goldreich
 - [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/) from Alfred J. Menezes, Paul C. van Oorschot and Scott A. Vanstone
 - [Foundations of Cryptography 89-856](http://u.cs.biu.ac.il/~lindell/89-856/complete-89-856.pdf) by Yehuda Lindell
+- [Mathematical Cryptology](http://math.tut.fi/~ruohonen/MC.pdf)
 - [Introduction to Reliable and Secure Distributed Programming](https://github.com/ChrisLinn/chrislinn.ink/tree/master/res/IntroductionToReliableAndSecur_Book_2011.pdf)
 - [Crypto 101](https://github.com/crypto101/book)
 - [Intuitive Advanced Cryptography](https://github.com/cryptosubtlety/intuitive-advanced-cryptography)
@@ -55,3 +56,4 @@ This repository collects lecture notes on Cryptography that are publicly accessi
 - [Resources for Getting Started with MPC](http://u.cs.biu.ac.il/~lindell/MPC-resources.html) by Yehuda Lindell
 - [awesome-mpc](https://github.com/rdragos/awesome-mpc)
 - https://tlu.tarilabs.com/cryptography/cryptography.html
+- [What is the lowest level of mathematics required in order to understand how encryption algorithms work?](https://crypto.stackexchange.com/questions/10467/what-is-the-lowest-level-of-mathematics-required-in-order-to-understand-how-encr)
