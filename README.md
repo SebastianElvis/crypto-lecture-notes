@@ -19,6 +19,7 @@ This repository collects lecture notes on Cryptography that are publicly accessi
 - [Intuitive Advanced Cryptography](https://github.com/cryptosubtlety/intuitive-advanced-cryptography)
 - [Privacy for identities](https://github.com/crypto-cypher/privacy-for-identities/)
 - [Practical-Cryptography-for-Developers-Book](https://github.com/nakov/Practical-Cryptography-for-Developers-Book)
+- [https://github.com/boazbk/crypto](https://github.com/boazbk/crypto) from Boaz Barak
 
 ## Courses
 
