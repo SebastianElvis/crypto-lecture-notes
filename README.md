@@ -11,7 +11,7 @@ This repository collects lecture notes on Cryptography that are publicly accessi
 - [Serious Cryptography: A Practical Introduction to Modern Encryption](http://index-of.es/Varios-2/Serious%20Cryptography%20A%20Practical%20Introduction%20to%20Modern%20Encryption%20(2).pdf) by JP Aumasson
 - [Handbook of Applied Cryptography](https://notendur.hi.is/pgg/Handbook%20of%20Applied%20Cryptography.pdf)
 - [The Foundations of Cryptography](http://www.wisdom.weizmann.ac.il/~oded/foc-book.html) by Oded Goldreich
-- [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/) from Alfred J. Menezes, Paul C. van Oorschot and Scott A. Vanstone
+- [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/) by Alfred J. Menezes, Paul C. van Oorschot and Scott A. Vanstone
 - [Foundations of Cryptography 89-856](http://u.cs.biu.ac.il/~lindell/89-856/complete-89-856.pdf) by Yehuda Lindell
 - [Mathematical Cryptology](http://math.tut.fi/~ruohonen/MC.pdf) by Keijo Ruohonen
 - [Introduction to Reliable and Secure Distributed Programming](https://github.com/ChrisLinn/chrislinn.ink/tree/master/res/IntroductionToReliableAndSecur_Book_2011.pdf)
@@ -19,7 +19,7 @@ This repository collects lecture notes on Cryptography that are publicly accessi
 - [Intuitive Advanced Cryptography](https://github.com/cryptosubtlety/intuitive-advanced-cryptography)
 - [Privacy for identities](https://github.com/crypto-cypher/privacy-for-identities/)
 - [Practical-Cryptography-for-Developers-Book](https://github.com/nakov/Practical-Cryptography-for-Developers-Book)
-- [An intensive introduction to cryptography](https://github.com/boazbk/crypto) from Boaz Barak
+- [An intensive introduction to cryptography](https://github.com/boazbk/crypto) by Boaz Barak
 
 ## Courses
 
