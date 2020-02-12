@@ -37,6 +37,7 @@ This repository collects lecture notes on Cryptography that are publicly accessi
 - [Advanced Topics in Cryptography](https://www.cs.umd.edu/~jkatz/gradcrypto2/) from University of Maryland
 - [Cryptography](https://www.boazbarak.org/cs127spring16/) from Harvard
 - [Secure Computation](http://www.cs.umd.edu/~jkatz/gradcrypto2/f13/scribes.html) from UMD
+- [Practical Cryptographic Systems](http://spar.isi.jhu.edu/~mgreen/650.445/650.445__Main.html) from JHU ([Github link](https://github.com/matthewdgreen/practicalcrypto))
 
 ## For coding
 
