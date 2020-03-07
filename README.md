@@ -38,6 +38,16 @@ This repository collects lecture notes on Cryptography that are publicly accessi
 - [Cryptography](https://www.boazbarak.org/cs127spring16/) from Harvard
 - [Secure Computation](http://www.cs.umd.edu/~jkatz/gradcrypto2/f13/scribes.html) from UMD
 - [Practical Cryptographic Systems](http://spar.isi.jhu.edu/~mgreen/650.445/650.445__Main.html) from JHU ([Github link](https://github.com/matthewdgreen/practicalcrypto))
+- [Cryptography](https://people.eecs.berkeley.edu/~sanjamg/classes/cs276-fall14/) from Berkeley. (16' & 18' versions can be found in https://people.eecs.berkeley.edu/~sanjamg/ but with fewer materials.)
+- [Advanced Cryptography](https://people.eecs.berkeley.edu/~sanjamg/classes/cs294-spring18/) from Berkeley.
+- [Secure Computation](https://people.eecs.berkeley.edu/~sanjamg/classes/cs294-spring16/) from Berkeley.
+- [Advanced Topics in Cryptography](http://www.cs.umd.edu/~jkatz/gradcrypto2/scribes.html) by Jonathan Katz from Maryland.
+    - [Suggested Readings](http://www.cs.umd.edu/~jkatz/gradcrypto2/links.html)
+- Introduction to Cryptography by Jonathan Katz from Maryland.
+    - [Lecture notes for Fall '02](http://www.cs.umd.edu/~jkatz/crypto/f02/lectures.html)
+    - [Slides for Spring '19](http://www.cs.umd.edu/~jkatz/crypto/s19/lectures.html)
+    - [Suggested Readings](http://www.cs.umd.edu/~jkatz/crypto/f02/readings.html)
+    
 
 ## For coding
 
