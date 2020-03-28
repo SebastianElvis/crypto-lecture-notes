@@ -21,6 +21,7 @@ This repository collects lecture notes on Cryptography that are publicly accessi
 - [Practical-Cryptography-for-Developers-Book](https://github.com/nakov/Practical-Cryptography-for-Developers-Book)
 - [An intensive introduction to cryptography](https://github.com/boazbk/crypto) by Boaz Barak
 - [Elliptic Curve Handbook](http://webs.ucm.es/BUCM/mat/doc8354.pdf) by Ian Connell
+- [Pseudorandomness](https://people.seas.harvard.edu/~salil/pseudorandomness/) by Salil Vadhan
 
 ## Courses
 
