@@ -42,9 +42,9 @@ This repository collects lecture notes on Cryptography that are publicly accessi
 - [Cryptography](https://people.eecs.berkeley.edu/~sanjamg/classes/cs276-fall14/) from Berkeley. (16' & 18' versions can be found in https://people.eecs.berkeley.edu/~sanjamg/ but with fewer materials.)
 - [Advanced Cryptography](https://people.eecs.berkeley.edu/~sanjamg/classes/cs294-spring18/) from Berkeley.
 - [Secure Computation](https://people.eecs.berkeley.edu/~sanjamg/classes/cs294-spring16/) from Berkeley.
-- [Advanced Topics in Cryptography](http://www.cs.umd.edu/~jkatz/gradcrypto2/scribes.html) by Jonathan Katz from Maryland.
+- [Advanced Topics in Cryptography](http://www.cs.umd.edu/~jkatz/gradcrypto2/scribes.html) from Maryland.
     - [Suggested Readings](http://www.cs.umd.edu/~jkatz/gradcrypto2/links.html)
-- Introduction to Cryptography by Jonathan Katz from Maryland.
+- Introduction to Cryptography from Maryland.
     - [Lecture notes for Fall '02](http://www.cs.umd.edu/~jkatz/crypto/f02/lectures.html)
     - [Slides for Spring '19](http://www.cs.umd.edu/~jkatz/crypto/s19/lectures.html)
     - [Suggested Readings](http://www.cs.umd.edu/~jkatz/crypto/f02/readings.html)
@@ -59,7 +59,7 @@ This repository collects lecture notes on Cryptography that are publicly accessi
 
 ## Misc
 
-- [awesome-cryptography](https://github.com/sobolevn/awesome-cryptography), with books, courses, blogs... included
+- [awesome-cryptography](https://github.com/sobolevn/awesome-cryptography)
 - [Isis Agora Lovecruft's list](https://github.com/isislovecruft/library--/tree/master/cryptography%20%26%20mathematics)
 - [Ben Lynn's notes](https://crypto.stanford.edu/pbc/notes/)
 - [awesome-crypto-papers](https://github.com/pFarb/awesome-crypto-papers)
