@@ -44,10 +44,10 @@ This repository collects lecture notes on Cryptography that are publicly accessi
 - [Secure Computation](https://people.eecs.berkeley.edu/~sanjamg/classes/cs294-spring16/) from Berkeley.
 - [Advanced Topics in Cryptography](http://www.cs.umd.edu/~jkatz/gradcrypto2/scribes.html) from Maryland.
     - [Suggested Readings](http://www.cs.umd.edu/~jkatz/gradcrypto2/links.html)
-- Introduction to Cryptography from Maryland.
+- [Introduction to Cryptography](http://www.cs.umd.edu/~jkatz/crypto/s19/lectures.html) from Maryland.
     - [Lecture notes for Fall '02](http://www.cs.umd.edu/~jkatz/crypto/f02/lectures.html)
-    - [Slides for Spring '19](http://www.cs.umd.edu/~jkatz/crypto/s19/lectures.html)
     - [Suggested Readings](http://www.cs.umd.edu/~jkatz/crypto/f02/readings.html)
+- [A Theorist's Toolkit](https://www.cs.cmu.edu/~odonnell/toolkit13/) from CMU
     
 
 ## For coding
