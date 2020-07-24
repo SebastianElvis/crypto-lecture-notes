@@ -25,7 +25,6 @@ This repository collects lecture notes on Cryptography that are publicly accessi
 
 ## Courses
 
-- [An Overview of Cryptography](https://www.garykessler.net/library/crypto.html)
 - [Graduate Cryptography (Topics in Theory)](http://www.ccs.neu.edu/home/wichs/class/crypto-fall15/index.html) from Northeastern
 - [Foundations of Cryptography](http://www.ccs.neu.edu/home/wichs/class/crypto-fall17/index.html) from Northeastern
 - [Introduction to Cryptography](https://cims.nyu.edu/~regev/teaching/crypto_fall_2014/) from NYU
@@ -59,6 +58,7 @@ This repository collects lecture notes on Cryptography that are publicly accessi
 
 ## Misc
 
+- [An Overview of Cryptography](https://www.garykessler.net/library/crypto.html)
 - [awesome-cryptography](https://github.com/sobolevn/awesome-cryptography)
 - [Isis Agora Lovecruft's list](https://github.com/isislovecruft/library--/tree/master/cryptography%20%26%20mathematics)
 - [Ben Lynn's notes](https://crypto.stanford.edu/pbc/notes/)
