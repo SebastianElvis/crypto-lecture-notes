@@ -25,6 +25,7 @@ This repository collects lecture notes on Cryptography that are publicly accessi
 
 ## Courses
 
+- [An Overview of Cryptography](https://www.garykessler.net/library/crypto.html)
 - [Graduate Cryptography (Topics in Theory)](http://www.ccs.neu.edu/home/wichs/class/crypto-fall15/index.html) from Northeastern
 - [Foundations of Cryptography](http://www.ccs.neu.edu/home/wichs/class/crypto-fall17/index.html) from Northeastern
 - [Introduction to Cryptography](https://cims.nyu.edu/~regev/teaching/crypto_fall_2014/) from NYU
