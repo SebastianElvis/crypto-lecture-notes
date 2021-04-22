@@ -42,7 +42,7 @@ This repository collects lecture notes on Cryptography that are publicly accessi
     - [Suggested Readings](http://www.cs.umd.edu/~jkatz/crypto/f02/readings.html)
 - [Secure Computation](http://www.cs.umd.edu/~jkatz/gradcrypto2/f13/scribes.html) from UMD
 - [Practical Cryptographic Systems](http://spar.isi.jhu.edu/~mgreen/650.445/650.445__Main.html) from JHU ([Github link](https://github.com/matthewdgreen/practicalcrypto))
-- [EN.601.741: Advanced Topics in Secure and Censorship-Resistant Communications](https://github.com/matthewdgreen/censorship) from JHU
+- [Advanced Topics in Secure and Censorship-Resistant Communications](https://github.com/matthewdgreen/censorship) from JHU
 - [Cryptography](https://people.eecs.berkeley.edu/~alexch/classes/CS276-F2017.html) from Berkeley
 - [Advanced Cryptography](https://people.eecs.berkeley.edu/~sanjamg/classes/cs294-spring18/) from Berkeley
 - [Special Topic in Cryptography: Secure Computation](https://people.eecs.berkeley.edu/~sanjamg/classes/cs294-spring16/) from Berkeley
