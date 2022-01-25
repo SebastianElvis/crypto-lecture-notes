@@ -47,6 +47,7 @@ This repository collects lecture notes on Cryptography that are publicly accessi
 - [Advanced Cryptography](https://people.eecs.berkeley.edu/~sanjamg/classes/cs294-spring18/) from Berkeley
 - [Special Topic in Cryptography: Secure Computation](https://people.eecs.berkeley.edu/~sanjamg/classes/cs294-spring16/) from Berkeley
 - [Probabilistically Checkable and Interactive Proof Systems](https://people.eecs.berkeley.edu/~alexch/classes/CS294-S2019.html) from Berkeley
+- [Probabilistic Proof Systems](https://people.cs.georgetown.edu/jthaler/COSC544.html) from Georgetown
 - [A Theorist's Toolkit](https://www.cs.cmu.edu/~odonnell/toolkit13/) from CMU
 - [Foundations of Privacy](https://course.ece.cmu.edu/~ece734/index.html) from CMU
 - [Information-Theoretic Lower Bounds](https://theinformaticists.com/2019/09/16/online-lecture-information-theoretic-lower-bounds/)
